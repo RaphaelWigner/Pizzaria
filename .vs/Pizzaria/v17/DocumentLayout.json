@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|c:\\users\\rapha\\source\\repos\\pizzaria\\pizzaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|c:\\users\\rapha\\source\\repos\\pizzaria\\pizzaria\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|C:\\Users\\rapha\\source\\repos\\Pizzaria\\pizzaria\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|c:\\users\\rapha\\source\\repos\\pizzaria\\pizzaria\\hisotooriicoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\hisotooriicoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|c:\\users\\rapha\\source\\repos\\pizzaria\\pizzaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|C:\\Users\\rapha\\source\\repos\\Pizzaria\\pizzaria\\administracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\administracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|c:\\users\\rapha\\source\\repos\\pizzaria\\pizzaria\\administracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\administracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|c:\\users\\rapha\\source\\repos\\pizzaria\\pizzaria\\gerenciamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\gerenciamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|C:\\Users\\rapha\\source\\repos\\Pizzaria\\pizzaria\\gerenciamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\gerenciamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|c:\\users\\rapha\\source\\repos\\pizzaria\\pizzaria\\receitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\receitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|C:\\Users\\rapha\\source\\repos\\Pizzaria\\pizzaria\\analise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\analise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|C:\\Users\\rapha\\source\\repos\\Pizzaria\\pizzaria\\hisotooriicoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\hisotooriicoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|c:\\users\\rapha\\source\\repos\\pizzaria\\pizzaria\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|C:\\Users\\rapha\\source\\repos\\Pizzaria\\pizzaria\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|C:\\Users\\rapha\\source\\repos\\Pizzaria\\pizzaria\\receitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\receitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|c:\\users\\rapha\\source\\repos\\pizzaria\\pizzaria\\criarreceita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\criarreceita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|c:\\users\\rapha\\source\\repos\\pizzaria\\pizzaria\\analise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\analise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|c:\\users\\rapha\\source\\repos\\pizzaria\\pizzaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|c:\\users\\rapha\\source\\repos\\pizzaria\\pizzaria\\receitas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\receitas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|C:\\Users\\rapha\\source\\repos\\Pizzaria\\pizzaria\\criarreceita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\criarreceita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|c:\\users\\rapha\\source\\repos\\pizzaria\\pizzaria\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF38773-446A-4D6C-912E-45FB887ACCFA}|Pizzaria\\Pizzaria.csproj|solutionrelative:pizzaria\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Program.cs",
+              "RelativeDocumentMoniker": "Pizzaria\\Program.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Program.cs",
+              "RelativeToolTip": "Pizzaria\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T00:09:22.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Administracao.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Administracao.cs",
+              "RelativeDocumentMoniker": "Pizzaria\\Administracao.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Administracao.cs",
+              "RelativeToolTip": "Pizzaria\\Administracao.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAqwHIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:55:15.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Administracao.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Administracao.cs",
+              "RelativeDocumentMoniker": "Pizzaria\\Administracao.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Administracao.cs [Projeto]",
+              "RelativeToolTip": "Pizzaria\\Administracao.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:55:05.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estoque.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Estoque.cs",
+              "RelativeDocumentMoniker": "Pizzaria\\Estoque.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Estoque.cs",
+              "RelativeToolTip": "Pizzaria\\Estoque.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAwwAABAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T02:03:49.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estoque.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Estoque.cs",
+              "RelativeDocumentMoniker": "Pizzaria\\Estoque.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Estoque.cs [Projeto]",
+              "RelativeToolTip": "Pizzaria\\Estoque.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:26:36.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Receitas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Receitas.Designer.cs",
+              "RelativeDocumentMoniker": "Pizzaria\\Receitas.Designer.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Receitas.Designer.cs",
+              "RelativeToolTip": "Pizzaria\\Receitas.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:02:55.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Analise.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Analise.cs",
+              "RelativeDocumentMoniker": "Pizzaria\\Analise.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Analise.cs",
+              "RelativeToolTip": "Pizzaria\\Analise.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:53:26.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Cliente.cs",
+              "RelativeDocumentMoniker": "Pizzaria\\Cliente.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Cliente.cs",
+              "RelativeToolTip": "Pizzaria\\Cliente.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAqwE0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:30:36.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CriarReceita.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\CriarReceita.cs",
+              "RelativeDocumentMoniker": "Pizzaria\\CriarReceita.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\CriarReceita.cs",
+              "RelativeToolTip": "Pizzaria\\CriarReceita.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwC8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:57:14.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Receitas.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Receitas.cs",
+              "RelativeDocumentMoniker": "Pizzaria\\Receitas.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Receitas.cs",
+              "RelativeToolTip": "Pizzaria\\Receitas.cs",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T02:03:51.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "hisotooriicoo.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\hisotooriicoo.cs",
+              "RelativeDocumentMoniker": "Pizzaria\\hisotooriicoo.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\hisotooriicoo.cs",
+              "RelativeToolTip": "Pizzaria\\hisotooriicoo.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:41:28.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "pedidos.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\pedidos.cs",
+              "RelativeDocumentMoniker": "Pizzaria\\pedidos.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\pedidos.cs",
+              "RelativeToolTip": "Pizzaria\\pedidos.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAqwIcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:52:51.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Gerenciamento.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Gerenciamento.cs",
+              "RelativeDocumentMoniker": "Pizzaria\\Gerenciamento.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Gerenciamento.cs",
+              "RelativeToolTip": "Pizzaria\\Gerenciamento.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAAMwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T15:47:10.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Form1.cs",
+              "RelativeDocumentMoniker": "Pizzaria\\Form1.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Form1.cs",
+              "RelativeToolTip": "Pizzaria\\Form1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:40:14.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "pedidos.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\pedidos.cs",
+              "RelativeDocumentMoniker": "Pizzaria\\pedidos.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\pedidos.cs [Projeto]",
+              "RelativeToolTip": "Pizzaria\\pedidos.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:47:54.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CriarReceita.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\CriarReceita.cs",
+              "RelativeDocumentMoniker": "Pizzaria\\CriarReceita.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\CriarReceita.cs [Projeto]",
+              "RelativeToolTip": "Pizzaria\\CriarReceita.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:42:29.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Analise.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Analise.cs",
+              "RelativeDocumentMoniker": "Pizzaria\\Analise.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Analise.cs [Projeto]",
+              "RelativeToolTip": "Pizzaria\\Analise.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:53:23.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Receitas.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Receitas.cs",
+              "RelativeDocumentMoniker": "Pizzaria\\Receitas.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Receitas.cs [Projeto]",
+              "RelativeToolTip": "Pizzaria\\Receitas.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:26:51.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "hisotooriicoo.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\hisotooriicoo.cs",
+              "RelativeDocumentMoniker": "Pizzaria\\hisotooriicoo.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\hisotooriicoo.cs [Projeto]",
+              "RelativeToolTip": "Pizzaria\\hisotooriicoo.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:41:25.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Gerenciamento.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Gerenciamento.cs",
+              "RelativeDocumentMoniker": "Pizzaria\\Gerenciamento.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Gerenciamento.cs [Projeto]",
+              "RelativeToolTip": "Pizzaria\\Gerenciamento.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T03:13:57.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Form1.cs",
+              "RelativeDocumentMoniker": "Pizzaria\\Form1.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\Pizzaria\\Pizzaria\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Pizzaria\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:31:50.627Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
